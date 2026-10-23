@@ -1,0 +1,3 @@
+# Preserve audited upstream bytes, PowerShell BOMs and SHA-256 inventories.
+* -text
+*.ico binary

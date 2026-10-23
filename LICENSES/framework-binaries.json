@@ -1,0 +1,194 @@
+[
+  {
+    "file": "BepInEx/core/0Harmony.dll",
+    "productVersion": "2.10.2",
+    "copyright": "Copyright © BepInEx 2022",
+    "sha256": "6c898933b52149e8bcf6722305c7e4d94add47c9e53b364096f91721624c0877"
+  },
+  {
+    "file": "BepInEx/core/AsmResolver.dll",
+    "productVersion": "6.0.0-beta.5+124e161a9bc0ebb83b4d97276ae3da3c9cfe2fc5",
+    "copyright": "Copyright © Washi 2016-2025",
+    "sha256": "64b50030b34654f12805ec4d2848551e431c5f0bcd65cd70d6fe2845f715fb12"
+  },
+  {
+    "file": "BepInEx/core/AsmResolver.DotNet.dll",
+    "productVersion": "6.0.0-beta.5+124e161a9bc0ebb83b4d97276ae3da3c9cfe2fc5",
+    "copyright": "Copyright © Washi 2016-2025",
+    "sha256": "045bcdf32427f9bd39bee2620c470372583935c8e89b360931e467dd191d46d1"
+  },
+  {
+    "file": "BepInEx/core/AsmResolver.PE.dll",
+    "productVersion": "6.0.0-beta.5+124e161a9bc0ebb83b4d97276ae3da3c9cfe2fc5",
+    "copyright": "Copyright © Washi 2016-2025",
+    "sha256": "6ba6d56bf5fd3dd18233b56606a7ed1d42b8c93977b5375716771bf13ea36a1e"
+  },
+  {
+    "file": "BepInEx/core/AsmResolver.PE.File.dll",
+    "productVersion": "6.0.0-beta.5+124e161a9bc0ebb83b4d97276ae3da3c9cfe2fc5",
+    "copyright": "Copyright © Washi 2016-2025",
+    "sha256": "8246433a1a6fb4c012c1814acee8a4ff24f3a4fac593569f6a1e343e68c9d8ee"
+  },
+  {
+    "file": "BepInEx/core/AssetRipper.CIL.dll",
+    "productVersion": "1.2.2+06216e69825ccd6536dc17e9ca81c4d539ce9321",
+    "copyright": "Copyright (c) 2025 ds5678",
+    "sha256": "1eeff8d76dda5d65e5145ab0d43a3dac672e096e5692c47e0382ebb3c7c817f9"
+  },
+  {
+    "file": "BepInEx/core/AssetRipper.Primitives.dll",
+    "productVersion": "3.2.0+d759b3db98bf2a1cb8c2181faf5d405610aac585",
+    "copyright": "Copyright (c) 2022-2025 ds5678",
+    "sha256": "681ba26fd356d9263fdf6afeb1b8f8506802a9503ffa80c9d21e0c4a46743a28"
+  },
+  {
+    "file": "BepInEx/core/BepInEx.Core.dll",
+    "productVersion": "6.0.0-be.790+4e98359b51c48f103f948c57faca3be20027407a",
+    "copyright": "Copyright © 2022 BepInEx Team",
+    "sha256": "5260a3ac961186f9593651d6c3542502b415cc6adaa7a491de050e58a89cde8f"
+  },
+  {
+    "file": "BepInEx/core/BepInEx.Preloader.Core.dll",
+    "productVersion": "6.0.0-be.790+4e98359b51c48f103f948c57faca3be20027407a",
+    "copyright": "Copyright © 2022 BepInEx Team",
+    "sha256": "4aaa73afd9138511628007c056c2b81b0eca3bfe904830891419cc8d41543ceb"
+  },
+  {
+    "file": "BepInEx/core/BepInEx.Unity.Common.dll",
+    "productVersion": "6.0.0-be.790+4e98359b51c48f103f948c57faca3be20027407a",
+    "copyright": "Copyright © 2022 BepInEx Team",
+    "sha256": "606a097882c472dd229d3c5323a6ac007069e591897fe98861043e4e13c4fa3d"
+  },
+  {
+    "file": "BepInEx/core/BepInEx.Unity.IL2CPP.dll",
+    "productVersion": "6.0.0-be.790+4e98359b51c48f103f948c57faca3be20027407a",
+    "copyright": "Copyright © 2022 BepInEx Team",
+    "sha256": "afc9cc7e3c407cf1324c1cb669addd6fd162354ffec9bbb83b78c83ca6941305"
+  },
+  {
+    "file": "BepInEx/core/Cpp2IL.Core.dll",
+    "productVersion": "2022.1.0-development.1452+558ddd9.558ddd98642010897d54316b51fbaa7889fda093",
+    "copyright": "Copyright © Samboy063 2019-2023",
+    "sha256": "a7ae866298472bfa5176c1b5b71adfa9fe6e2f1deef7b8d50f063c0e2c0ba258"
+  },
+  {
+    "file": "BepInEx/core/Disarm.dll",
+    "productVersion": "2022.1.0-master.99+8574010.8574010015c8c56bb7faad7e407c50b0abe9cc72",
+    "copyright": "Copyright © Samboy063 2022",
+    "sha256": "40e804c35369825884534734725d06831a534759478c8d9f3f908d80779a1a93"
+  },
+  {
+    "file": "BepInEx/core/dobby.dll",
+    "productVersion": null,
+    "copyright": null,
+    "sha256": "8015de7d867245a1095d13947a63763878e4cf5fd3d3089b63cc39200b055ded"
+  },
+  {
+    "file": "BepInEx/core/Gee.External.Capstone.dll",
+    "productVersion": "2.3.2+b90e380c14e857865c94a355954236e678bd557c",
+    "copyright": "Copyright (c) Ahmed Garhy",
+    "sha256": "18f9cfbfd10b479143a46b3e417ccfce4a62d4c2770da9ed12d553a0b326302c"
+  },
+  {
+    "file": "BepInEx/core/Iced.dll",
+    "productVersion": "1.21.0+601c40570d6c986c8e1a6a2e483dd2fdf5ade552",
+    "copyright": "Copyright (C) 2018-present iced project and contributors",
+    "sha256": "f058c01321b4cdfc9b9151879e88e59571c8d0ba176fbcf95bc936a8f3d073ed"
+  },
+  {
+    "file": "BepInEx/core/Il2CppInterop.Common.dll",
+    "productVersion": "1.5.3+dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "copyright": " ",
+    "sha256": "070e04f2276a8963a6d2a7eb52d43b644f3ae9aa3816c34541124d3862f1b37f"
+  },
+  {
+    "file": "BepInEx/core/Il2CppInterop.Generator.dll",
+    "productVersion": "1.5.3+dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "copyright": " ",
+    "sha256": "95364bf2686f50d114784e482a0e78c472f6a649d07ea31a075328b2b756899d"
+  },
+  {
+    "file": "BepInEx/core/Il2CppInterop.HarmonySupport.dll",
+    "productVersion": "1.5.3+dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "copyright": " ",
+    "sha256": "f7612ea2e5a4d473b771f34ee3b20cf32dc0c4ecea0185416474999a17fbcc07"
+  },
+  {
+    "file": "BepInEx/core/Il2CppInterop.Runtime.dll",
+    "productVersion": "1.5.3+dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "copyright": " ",
+    "sha256": "65ab051a681c2c1e52df7596ff738be401aae72cff882ff18241cf54a3ea38a4"
+  },
+  {
+    "file": "BepInEx/core/LibCpp2IL.dll",
+    "productVersion": "2022.1.0-development.1452+558ddd9.558ddd98642010897d54316b51fbaa7889fda093",
+    "copyright": "Copyright © Samboy063 2019-2023",
+    "sha256": "dd3bd5417cac3fd203b906a90dbae6719136e61f43c2b4eed55f56242bb10a14"
+  },
+  {
+    "file": "BepInEx/core/Mono.Cecil.dll",
+    "productVersion": "0.11.4.0",
+    "copyright": "Copyright © 2008 - 2018 Jb Evain",
+    "sha256": "769a59793d4b8885bbbfbc5aee8f57a0d4e34d275c56c60c03994309b87f67e9"
+  },
+  {
+    "file": "BepInEx/core/Mono.Cecil.Mdb.dll",
+    "productVersion": "0.11.4.0",
+    "copyright": "Copyright © 2008 - 2018 Jb Evain",
+    "sha256": "61637f9940e5e336571cbf945be0f36d6d6050e06288df0f0232d93b26f0bde7"
+  },
+  {
+    "file": "BepInEx/core/Mono.Cecil.Pdb.dll",
+    "productVersion": "0.11.4.0",
+    "copyright": "Copyright © 2008 - 2018 Jb Evain",
+    "sha256": "a5249a04ad8fd7dfd47e4d0a620aed0f7eb6051e1ddec102c541ca3e12f6e2a8"
+  },
+  {
+    "file": "BepInEx/core/Mono.Cecil.Rocks.dll",
+    "productVersion": "0.11.4.0",
+    "copyright": "Copyright © 2008 - 2018 Jb Evain",
+    "sha256": "273292babd45f9f34de5054bd9cdfe1d859a7dbf6f4ad5974fe4ead70698ed5b"
+  },
+  {
+    "file": "BepInEx/core/MonoMod.Backports.dll",
+    "productVersion": "1.1.2+a1b82852b",
+    "copyright": "Copyright 2024 0x0ade, DaNike",
+    "sha256": "cdd6e9f7bcdb98d2c002f63bfbe85ae80ea36261190a741e64283d769a6c6502"
+  },
+  {
+    "file": "BepInEx/core/MonoMod.ILHelpers.dll",
+    "productVersion": null,
+    "copyright": null,
+    "sha256": "0081403bdcef3340f78c7ccded0be6ae0507b397ee8b9980b44f01bf9f93aed1"
+  },
+  {
+    "file": "BepInEx/core/MonoMod.RuntimeDetour.dll",
+    "productVersion": "22.07.31.01",
+    "copyright": "Copyright 2022 0x0ade",
+    "sha256": "1b3d55f53cb9f9f2550daed4dfd300b247d71698a0ace82bc7b9ff38d563594f"
+  },
+  {
+    "file": "BepInEx/core/MonoMod.Utils.dll",
+    "productVersion": "22.07.31.01",
+    "copyright": "Copyright 2022 0x0ade",
+    "sha256": "72a5b4249985873d7ecb160cbbed7a1e6540a38ee7618c72c64b9cb068c1438a"
+  },
+  {
+    "file": "BepInEx/core/SemanticVersioning.dll",
+    "productVersion": "2.0.2",
+    "copyright": "Copyright 2016 Adam Reeve",
+    "sha256": "a5b57607225a0ebde049e93469f49e5b2d07a7d602a03864ce3a72ccf57103a2"
+  },
+  {
+    "file": "BepInEx/core/StableNameDotNet.dll",
+    "productVersion": "0.1.0-development.1452+558ddd9.558ddd98642010897d54316b51fbaa7889fda093",
+    "copyright": "Copyright © Samboy063 2022-2023",
+    "sha256": "280373b93a140395489d714703ac61f8d02c7aa07ac6e34024f8f0e26901325a"
+  },
+  {
+    "file": "BepInEx/core/WasmDisassembler.dll",
+    "productVersion": "2022.1.0-development.1452+558ddd9.558ddd98642010897d54316b51fbaa7889fda093",
+    "copyright": " ",
+    "sha256": "f837036e0db02d6f3dde76de573fd9a847a1175d61818607e40c46952f5c66c0"
+  }
+]

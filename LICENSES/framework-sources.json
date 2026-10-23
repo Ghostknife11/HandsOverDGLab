@@ -1,0 +1,38 @@
+[
+  {
+    "component": "BepInEx",
+    "repository": "BepInEx/BepInEx",
+    "ref": "4e98359b51c48f103f948c57faca3be20027407a",
+    "url": "https://codeload.github.com/BepInEx/BepInEx/zip/4e98359b51c48f103f948c57faca3be20027407a",
+    "archive": "BepInEx-4e98359b51c48f103f948c57faca3be20027407a.zip",
+    "sha256": "b381968c0285add999272f6eb58b8345710ae9806e667977e70c36bfb27ab1db",
+    "license": "LGPL-2.1-only",
+    "modified": false,
+    "source_includes_build_scripts": true,
+    "git_submodules": []
+  },
+  {
+    "component": "Il2CppInterop",
+    "repository": "BepInEx/Il2CppInterop",
+    "ref": "dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "url": "https://codeload.github.com/BepInEx/Il2CppInterop/zip/dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "archive": "Il2CppInterop-dbda1cb353b0f4253345dc45136d170b9e50a5a0.zip",
+    "sha256": "96d223a475c885ef08118a3adaee0c2ed5d65edd83fbea9987e5a305f1123ac5",
+    "license": "LGPL-3.0-only",
+    "modified": false,
+    "source_includes_build_scripts": true,
+    "git_submodules": []
+  },
+  {
+    "component": "UnityDoorstop",
+    "repository": "NeighTools/UnityDoorstop",
+    "ref": "v4.6.0",
+    "url": "https://codeload.github.com/NeighTools/UnityDoorstop/zip/v4.6.0",
+    "archive": "UnityDoorstop-v4.6.0.zip",
+    "sha256": "95a3d62f5cb2fc792f1dfc61e6b09f78e685e0966401e6f9e6fa58540249e0ea",
+    "license": "LGPL-2.1-only",
+    "modified": false,
+    "source_includes_build_scripts": true,
+    "git_submodules": []
+  }
+]
